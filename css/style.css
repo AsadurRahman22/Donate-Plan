@@ -1,0 +1,269 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-image: url("../images/donation3.jpg");
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.transprent-back {
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 100%;
+}
+
+.heading {
+    width: 60%;
+    padding: 200px;
+    padding-left: 20%;
+}
+
+.heading h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+.heading p {
+    text-align: center;
+    color: bisque;
+    font-size: 20px;
+}
+
+.heading a {
+    margin-left: 40%;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    color: bisque;
+    font-size: 20px;
+}
+
+.Donate-Today {
+    margin-left: 20%;
+}
+
+.Donate-Today input {
+    width: 80%;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    border: none;
+    border-bottom: 5px solid orange;
+}
+
+.contant-heading {
+    width: 60%;
+    margin-left: 10%;
+}
+
+.contant-heading h1 {
+    text-align: center;
+
+}
+
+.contant-heading p {
+    text-align: center;
+
+}
+
+.contant-tk {
+    display: flex;
+
+
+}
+
+.plan-heading {
+    margin-left: 29%;
+}
+
+.contant-tk a {
+    margin: 15px;
+    padding: 50px;
+    background-color: plum;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}
+
+#donate {
+    margin-top: 5%;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 35%;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+}
+
+.plan-heading {
+    width: 50%;
+}
+
+.plan-heading h1 {
+    text-align: center;
+}
+
+.plan-heading p {
+    text-align: center;
+}
+
+.Updates {
+    width: 40%;
+    margin-left: 30%;
+}
+
+.My-Updates h1 {
+    text-align: center;
+}
+
+.My-Updates p {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.email-section {
+    width: 100%;
+    background-color: rgb(255, 219, 219);
+}
+
+.email {
+    padding: 50px;
+    display: flex;
+    margin-bottom: 20px;
+    position: relative;
+    left: 5%;
+    transform: -5%;
+}
+
+.email input {
+    width: 60%;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    border: 5px solid rgb(138, 0, 133);
+    padding: 5px;
+    border-radius: 10px 0px 0px 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.email a {
+    margin-left: 0;
+    padding: 15px 30px;
+    background-color: rgb(138, 0, 133);
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 800;
+    color: rgb(235, 197, 197);
+    border-radius: 0px 10px 10px 0px;
+}
+
+.FEATURED-CONTENT p {
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.FEATURED-CONTENT h1 {
+    text-align: center;
+}
+
+.FEATURED-CONTENT h3 {
+    padding: 20px;
+    margin: 20px;
+
+    text-align: center;
+    border-bottom: 5px solid orangered;
+}
+
+.FEATURED-CONTENT h3 a {
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.heroes {
+    width: 60%;
+    margin-left: 20%;
+    font-size: 20px;
+}
+
+.FEATURED {
+    display: flex;
+    margin: 20px;
+    padding-left: 15%;
+}
+
+.CONTENT {
+    margin: 20px;
+    background-color: rgb(255, 219, 219);
+    width: 25%;
+    box-shadow: 10px 20px 10px salmon;
+
+}
+
+.CONTENT img {
+    width: 100%;
+}
+
+.CONTENT p {
+    padding: 10px;
+    text-align: center;
+    color: rgb(16, 16, 16);
+
+}
+
+.CONTENT p a {
+
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 15px;
+    color: rgb(235, 197, 197);
+    background-color: rgb(138, 0, 133);
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    width: 90%;
+    text-decoration: none;
+
+}
+
+footer {
+
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.footer-text {
+    color: bisque;
+    padding: 30px;
+}
+
+.footer-text h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    color: rgb(199, 13, 193);
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.footer-text h6 {
+    margin-top: 0;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1px;
+}
+
+.footer-text h5 {
+    line-height: 1px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 700;
+}
